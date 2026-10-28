@@ -1,5 +1,5 @@
 # Hey, I'm Arindam
-<br><br>CS student at Bennett University who builds products and runs growth campaigns. Tech Co-Head at Mobilon, building Makevel, an India-first travel platform. I like owning projects end-to-end, from research to build to launch.<br><br>Tech Co-Head @ Mobilon | Building Makevel, India-first travel platform | Co-built ProofOfSkill | Flutter · Firebase · Java · Python<br><br>📫 Reach me<br>Email: arindamjakhwal10@gmail.com<br>LinkedIn: [arindam-jakhwal](https://www.linkedin.com/in/arindam-jakhwal-bb596532b/)
+<br><br>CS student at Bennett University who builds products and runs growth campaigns. Tech Co-Head at Mobilon, building Makevel, an India-first travel platform. I like owning projects end-to-end, from research to build to launch.<br><br>Tech Co-Head @ Mobilon | Building Makevel, India-first travel platform | Co-built ProofOfSkill | Flutter · Firebase · Java · Python · C++<br><br>📫 Reach me<br>Email: arindamjakhwal10@gmail.com<br>LinkedIn: [arindam-jakhwal](https://www.linkedin.com/in/arindam-jakhwal-bb596532b/)
 
 
 ## 🌐 Socials:
